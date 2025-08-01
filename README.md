@@ -1,2 +1,2 @@
-# personal-portfolio
-A personal portfolio website showcasing my Web Development  Projects and Skills.
+# Personal-Portfolio
+A Personal portfolio website showcasing my web development  Projects and Skills.
