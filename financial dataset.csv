@@ -1,0 +1,101 @@
+TransactionID,Date,AccountType,Category,Amount,Currency,PaymentMethod,Region
+TXN001,13-06-2025,Income,Salary,3836.98,EUR,Credit Card,Europe
+TXN002,08-07-2025,Income,Salary,3157.22,USD,Cash,North America
+TXN003,25-02-2025,Income,Salary,3025.6,AUD,Credit Card,Australia
+TXN004,31-05-2025,Expense,Groceries,763.63,EUR,Online Payment,Asia
+TXN005,13-03-2025,Income,Investment,4807.46,INR,Cash,North America
+TXN006,08-04-2025,Income,Bonus,4313.72,INR,Cash,Australia
+TXN007,18-05-2025,Income,Interest,854.6,INR,Bank Transfer,Europe
+TXN008,30-06-2025,Income,Salary,3475.68,INR,Cash,Europe
+TXN009,10-08-2025,Income,Interest,1750.88,INR,Credit Card,Asia
+TXN010,01-04-2025,Income,Bonus,3658.19,USD,Credit Card,Europe
+TXN011,11-02-2025,Expense,Transport,284.55,EUR,Bank Transfer,North America
+TXN012,28-02-2025,Income,Bonus,2305.24,USD,Credit Card,Asia
+TXN013,24-02-2025,Expense,Transport,886.99,AUD,Credit Card,Asia
+TXN014,05-02-2025,Income,Bonus,3861.56,AUD,Online Payment,Asia
+TXN015,26-02-2025,Income,Interest,909.09,USD,Cash,Europe
+TXN016,10-06-2025,Income,Interest,3183.84,AUD,Online Payment,Australia
+TXN017,16-05-2025,Expense,Entertainment,863.56,USD,Cash,Asia
+TXN018,16-07-2025,Expense,Groceries,307.63,EUR,Online Payment,North America
+TXN019,04-07-2025,Expense,Entertainment,766.72,USD,Bank Transfer,Europe
+TXN020,09-02-2025,Expense,Rent,548.59,USD,Bank Transfer,Australia
+TXN021,05-01-2025,Income,Bonus,4454.25,INR,Credit Card,North America
+TXN022,03-03-2025,Income,Salary,3793.58,USD,Credit Card,Europe
+TXN023,18-06-2025,Expense,Entertainment,181.82,AUD,Credit Card,Europe
+TXN024,02-07-2025,Expense,Transport,995.25,INR,Online Payment,Australia
+TXN025,31-01-2025,Income,Investment,788.12,USD,Credit Card,Europe
+TXN026,02-01-2025,Income,Salary,1530.24,USD,Bank Transfer,North America
+TXN027,12-05-2025,Income,Bonus,3510.4,EUR,Credit Card,Australia
+TXN028,04-03-2025,Expense,Transport,206.6,USD,Online Payment,Asia
+TXN029,19-04-2025,Expense,Transport,866.56,USD,Cash,North America
+TXN030,14-04-2025,Expense,Groceries,263.68,EUR,Online Payment,Europe
+TXN031,19-04-2025,Income,Bonus,2581.83,USD,Online Payment,North America
+TXN032,13-01-2025,Income,Salary,4668.65,EUR,Credit Card,Australia
+TXN033,05-05-2025,Expense,Rent,867.36,USD,Credit Card,Australia
+TXN034,01-01-2025,Expense,Utilities,927.99,AUD,Bank Transfer,Australia
+TXN035,28-06-2025,Expense,Rent,206.1,EUR,Cash,North America
+TXN036,11-07-2025,Expense,Groceries,69.14,AUD,Credit Card,North America
+TXN037,11-05-2025,Income,Investment,808.35,USD,Credit Card,Australia
+TXN038,31-01-2025,Income,Salary,3287.22,AUD,Bank Transfer,Asia
+TXN039,22-02-2025,Expense,Rent,280.3,EUR,Bank Transfer,Australia
+TXN040,22-03-2025,Income,Salary,2562.28,USD,Cash,Europe
+TXN041,10-05-2025,Expense,Rent,934.59,USD,Credit Card,Asia
+TXN042,14-03-2025,Income,Interest,4251.85,INR,Cash,Asia
+TXN043,27-08-2025,Income,Investment,1690.1,USD,Credit Card,Asia
+TXN044,14-03-2025,Income,Bonus,1416.19,INR,Online Payment,Asia
+TXN045,20-08-2025,Income,Salary,3354.28,INR,Cash,North America
+TXN046,27-03-2025,Income,Bonus,1227.12,AUD,Online Payment,North America
+TXN047,29-01-2025,Income,Investment,2955.16,INR,Credit Card,Australia
+TXN048,02-02-2025,Income,Bonus,2140.93,USD,Bank Transfer,Europe
+TXN049,24-06-2025,Income,Salary,2091.55,AUD,Credit Card,Europe
+TXN050,10-08-2025,Income,Investment,4466.37,USD,Credit Card,Asia
+TXN051,20-07-2025,Expense,Rent,281.47,USD,Online Payment,North America
+TXN052,08-08-2025,Expense,Rent,215.58,AUD,Bank Transfer,Asia
+TXN053,30-07-2025,Income,Investment,606.49,EUR,Online Payment,Asia
+TXN054,13-03-2025,Income,Bonus,2080.16,AUD,Bank Transfer,North America
+TXN055,30-01-2025,Expense,Rent,588.98,INR,Cash,North America
+TXN056,02-06-2025,Expense,Utilities,733.97,INR,Online Payment,North America
+TXN057,09-04-2025,Income,Bonus,699.74,AUD,Cash,Europe
+TXN058,04-04-2025,Expense,Groceries,949.9,INR,Bank Transfer,North America
+TXN059,04-07-2025,Expense,Entertainment,323.1,AUD,Bank Transfer,Australia
+TXN060,28-06-2025,Expense,Entertainment,144.74,AUD,Online Payment,Europe
+TXN061,07-06-2025,Expense,Transport,556.98,USD,Bank Transfer,Asia
+TXN062,23-02-2025,Expense,Entertainment,614.53,INR,Online Payment,Australia
+TXN063,24-04-2025,Income,Interest,4071.81,EUR,Cash,Asia
+TXN064,12-05-2025,Expense,Groceries,822.05,EUR,Bank Transfer,Europe
+TXN065,26-07-2025,Income,Investment,609.91,EUR,Online Payment,North America
+TXN066,27-04-2025,Expense,Entertainment,210.55,AUD,Online Payment,Australia
+TXN067,04-03-2025,Income,Salary,4516.97,USD,Online Payment,Europe
+TXN068,15-02-2025,Expense,Groceries,566.26,USD,Online Payment,Europe
+TXN069,25-07-2025,Expense,Entertainment,988.13,INR,Online Payment,Australia
+TXN070,01-08-2025,Expense,Rent,748.78,AUD,Online Payment,Asia
+TXN071,12-07-2025,Income,Bonus,3946.16,AUD,Credit Card,Asia
+TXN072,23-04-2025,Income,Bonus,1555.22,INR,Bank Transfer,North America
+TXN073,05-02-2025,Income,Investment,2223.66,EUR,Credit Card,North America
+TXN074,17-04-2025,Expense,Utilities,551.76,AUD,Cash,Europe
+TXN075,02-08-2025,Expense,Transport,906.74,USD,Online Payment,Australia
+TXN076,02-01-2025,Expense,Utilities,758.41,AUD,Credit Card,Australia
+TXN077,26-02-2025,Expense,Transport,495.93,AUD,Bank Transfer,Australia
+TXN078,05-07-2025,Income,Interest,4637.94,USD,Online Payment,North America
+TXN079,22-01-2025,Expense,Rent,869.51,EUR,Cash,Asia
+TXN080,08-04-2025,Expense,Rent,465.61,INR,Online Payment,Asia
+TXN081,12-07-2025,Expense,Utilities,838.21,AUD,Cash,North America
+TXN082,31-03-2025,Income,Salary,4015.55,USD,Cash,Europe
+TXN083,21-02-2025,Income,Investment,1573.45,AUD,Cash,Europe
+TXN084,30-04-2025,Expense,Utilities,184.43,USD,Credit Card,Asia
+TXN085,28-01-2025,Income,Bonus,3091.09,AUD,Online Payment,Europe
+TXN086,20-01-2025,Income,Salary,3637.37,INR,Cash,North America
+TXN087,30-03-2025,Expense,Utilities,87.58,INR,Cash,Australia
+TXN088,30-07-2025,Expense,Groceries,444.85,INR,Online Payment,Europe
+TXN089,22-04-2025,Income,Bonus,3271.61,AUD,Online Payment,Australia
+TXN090,31-07-2025,Expense,Utilities,854.68,USD,Bank Transfer,Australia
+TXN091,04-03-2025,Expense,Entertainment,618.13,AUD,Bank Transfer,North America
+TXN092,07-05-2025,Expense,Rent,497.8,INR,Bank Transfer,Asia
+TXN093,13-03-2025,Expense,Entertainment,29.95,EUR,Cash,Europe
+TXN094,04-07-2025,Expense,Transport,564.07,EUR,Online Payment,Australia
+TXN095,25-04-2025,Income,Salary,1824.06,AUD,Credit Card,Asia
+TXN096,19-06-2025,Expense,Transport,562.4,INR,Online Payment,Asia
+TXN097,01-04-2025,Expense,Utilities,320.49,EUR,Cash,Europe
+TXN098,22-03-2025,Income,Investment,1361.93,AUD,Bank Transfer,Asia
+TXN099,26-01-2025,Income,Bonus,1523.67,EUR,Bank Transfer,North America
+TXN100,01-07-2025,Income,Bonus,704.82,USD,Bank Transfer,Europe
